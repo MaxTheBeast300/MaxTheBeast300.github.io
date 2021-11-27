@@ -16,4 +16,4 @@ It was also relevant to the project to take pictures of the graves and record th
 
 Using the pictures and [Meshroom](https://alicevision.org/) application, the many photos would first create a point-based shape and then would be refined into a greater detailed mesh. The results are stunning!
 ![Points](tombProcess.jpg)
-![Tomb](Tomb1.jpg)
+![Tomb](Tomb1.png)
