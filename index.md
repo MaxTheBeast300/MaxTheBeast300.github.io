@@ -17,3 +17,7 @@ It was also relevant to the project to take pictures of the graves and record th
 Using the pictures and [Meshroom](https://alicevision.org/) application, the many photos would first create a point-based shape and then would be refined into a greater detailed mesh. The results are stunning!
 ![Points](tombProcess.jpg)
 ![Tomb](Tomb1.png)
+
+## Ethical dimensions
+
+This project involves and presents many ethical problems and questions we have to think about. What does it mean to digitalize the information here, without the explicit consent of the deceased person (not that we can since they are no longer alive)? We could argue that we are reducing a living thing, memory, and legacy to a small digital box. These questions are amongst many that was explored in class.
